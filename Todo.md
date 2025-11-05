@@ -96,5 +96,5 @@
 ---
 
 **Maintainer:** Sarsha Newton  
-**Thesis Coordinator:** [Name TBD]  
+**Thesis Coordinator:** Alin Brindusescu
 _Last updated: Nov 5 2025_
